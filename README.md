@@ -1,2 +1,2 @@
 # MyRepo
-Test2
+This is master version
